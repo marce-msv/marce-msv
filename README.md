@@ -20,6 +20,9 @@ Hi there 👋,  I'm Marcelo Suarez
 Full Stack Developer
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<br />
+<br />
+
 - 🌍 Based in Barcelona
 - 🌱 I’m currently learning everything 🤣
 - 📧 How to reach me: [marcelo.suarez.v@gmail.com](mailto:marcelo.suarez.v@gmail.com)
@@ -55,6 +58,9 @@ Full Stack Developer
 
 <p align="left"> <a href="https://www.github.com/marce-msv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/marcesv/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+<br />
+<br />
 
 ### My Stats
 
