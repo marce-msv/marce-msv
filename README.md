@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Marcelo Suarez - aka [marce-msv]👋 
+Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Marcelo Suarez - aka [marce-msv]👋 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Full Stack Developer
 
 - 🌍 Based in Barcelona
 - 🌱 I’m currently learning everything 🤣
 - 📧 How to reach me: [marcelo.suarez.v@gmail.com](mailto:marcelo.suarez.v@gmail.com)
 - 🤝  I'm open to collaborating on full stack projects.
 
-### Languages and Skills:
+### Skills:
 
 
 
@@ -52,7 +55,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.github.com/marce-msv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/marcesv/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### My Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marce-msv&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marce-msv&hide=java,html,tex&count_private=false&show_icons=true&theme=radical&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marce-msv&line_height=27&count_private=true&show_icons=true&theme=radical" alt="Nelson's GitHub Stats" />
+</a>
