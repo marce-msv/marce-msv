@@ -28,6 +28,9 @@ Full Stack Developer
 - 📧 How to reach me: [marcelo.suarez.v@gmail.com](mailto:marcelo.suarez.v@gmail.com)
 - 🤝  I'm open to collaborating on full stack projects.
 
+<br />
+<br />
+
 ### Skills:
 
 
